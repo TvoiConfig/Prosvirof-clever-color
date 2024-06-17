@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-06-17T18:26:59.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dFyWgtFenPuHu5iIiXyo" version="24.4.8" type="device">
+  <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
+    <mxGraphModel dx="1688" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3" value="" style="line;strokeWidth=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="line;strokeWidth=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="90" width="780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="страница 1" style="text;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="20" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Меню" style="text;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="755" y="70.00000000000013" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="110" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="ТЕГ" style="text;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-62" value="страница 2" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-63" value="страница 3" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-65" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-66" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla " style="text;spacingTop=-5;whiteSpace=wrap;align=left" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-67" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla " style="text;spacingTop=-5;whiteSpace=wrap;align=left" vertex="1" parent="1">
+          <mxGeometry x="425" y="330" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="215" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-74" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-75" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-76" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-78" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="670" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-80" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="870" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-82" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="870" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-83" value="ТЕГ" style="text;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="870" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-84" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor " style="text;spacingTop=-5;whiteSpace=wrap;align=left" vertex="1" parent="1">
+          <mxGeometry x="30" y="890" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-85" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor " style="text;spacingTop=-5;whiteSpace=wrap;align=left" vertex="1" parent="1">
+          <mxGeometry x="300" y="890" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHB5oedgrdrLNiXIMT1K-86" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor " style="text;spacingTop=-5;whiteSpace=wrap;align=left" vertex="1" parent="1">
+          <mxGeometry x="570" y="890" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
